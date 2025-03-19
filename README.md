@@ -35,8 +35,5 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Joilson/Joilson/output/snake.svg" alt="Snake animation" />
 
 ###
