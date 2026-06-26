@@ -9,6 +9,18 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joilson.rezende@gmail.com)
 
 ---
+### 🤖 AI & LLMs
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square)
+
 
 ### 🛠️ Tech Stack
 
@@ -37,7 +49,7 @@
   </tr>
 </table>
 
----
+
 
 ### 📐 Architecture & Design
 
