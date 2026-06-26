@@ -90,14 +90,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joilson&theme=github_dark&no-frame=true&no-bg=true&column=6&margin-w=15" />
-</p>
-
----
-
 <p align="center">
   <i>Obrigado pela visita! Vamos nos conectar?</i><br>
   <a href="https://www.linkedin.com/in/joilson-rezende-b3a2b750">
