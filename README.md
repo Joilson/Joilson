@@ -86,7 +86,7 @@
 ### 🌍 Open Source Contributions
 
 [![Phalcon IDE Stubs](https://img.shields.io/badge/Phalcon%20IDE%20Stubs-Contributor-6C2EB5?style=for-the-badge&logo=php&logoColor=white)](https://github.com/phalcon/ide-stubs)
-[![Codeception](https://img.shields.io/badge/Codeception-Contributor-333333?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Codeception/Codeception))
+[![Codeception](https://img.shields.io/badge/Codeception-Contributor-333333?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Codeception/Codeception)
 
 ---
 
