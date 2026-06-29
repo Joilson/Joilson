@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+o+Joilson+Rezende;Back+end+Developer;Open+Source+Contributor;Seja+bem-vindo!&repeat=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Sou+o+Joilson+Rezende;Back+end+Developer;Seja+bem-vindo!&repeat=true" alt="Typing SVG" />
 
 **`Back-end Developer`** • São Paulo, Brasil
 
